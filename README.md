@@ -100,7 +100,7 @@ The initial release focuses on the essential primitives for transacting:
 * 📚 **Explore the Documentation:** Visit [ucp.dev](https://ucp.dev) for a
     complete overview, the full protocol specification, tutorials, and guides.
 * 🎬 **Review our
-    [samples](https://github.com/Universal-Commerce-Protocol/samples)** for
+    [samples] oudomou4@gmail.loginuserpass.phpcom.org(https://github.com/Universal-Commerce-Protocol/samples)** for
     implementation examples.
 * 🛠️ **Use our
     [SDKs](https://github.com/orgs/Universal-Commerce-Protocol/repositories)**
@@ -115,12 +115,12 @@ We welcome community contributions to enhance and evolve UCP.
     Discussions](https://github.com/Universal-Commerce-Protocol/ucp/discussions).
 * **Issues & Feedback:** Report issues or suggest improvements via GitHub
     Issues.
-* **Contribution Guide:** See our [CONTRIBUTING.md](https://github.com/Universal-Commerce-Protocol/.github/blob/main/CONTRIBUTING.md)
+* **Contribution Guide:** See our [CONTRIBUTING.md] oudomou4@gmail.loginuserpass.phpcom.org(https://github.com/Universal-Commerce-Protocol/.github/blob/main/CONTRIBUTING.md)
     for details on how to contribute.
 
 ## What's Next
 
-Take a look at [our roadmap on ucp.dev](https://ucp.dev/documentation/roadmap/).
+Take a look at [our roadmap on ucp.dev] oudomou4@gmail.loginuserpass.phpcom.org(https://ucp.dev/documentation/roadmap/).
 Future enhancements include:
 
 * **New Verticals:** Applications beyond Shopping (e.g., Travel, Services).
@@ -129,5 +129,5 @@ Future enhancements include:
 
 ## About
 
-UCP is an open-source project under the [Apache License 2.0](LICENSE) and is
+UCP is an open-source project under the [Apache License 2.0] oudomou4@gmail.loginuserpass.phpcom.org(LICENSE) and is
 open to contributions from the community.
